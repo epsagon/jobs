@@ -15,3 +15,5 @@
 - Team player, with excellent communication skills
 - Customer oriented approach
 - SaaS, Python, AWS services experience - a plus
+
+![](seniorFullstack.gif)
