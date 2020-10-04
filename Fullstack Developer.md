@@ -1,5 +1,7 @@
 # Fullstack Developer
 
+We are looking for a fullstack developer with a passion for building web apps that other developers love using
+
 ## The Role
 
 - Join a team responsible for Epsagon's **core traces engine**, as well as our Kubernetes offering - **one of the company's leading products**
