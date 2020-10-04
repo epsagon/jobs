@@ -1,8 +1,8 @@
-**About Epsagon**
+# Software Engineer
 
-With more than $30 million in funding, we're on a mission to help development and operations teams detect, troubleshoot, and resolve issues within complex micro-services environments. We are looking for a senior software engineer with a strong passion for building customer-oriented  software that other engineers love using.
+We are looking for a software engineer with a strong passion for building customer-oriented software that other engineers love using.
 
-**The Role**
+## The Role
 
 - Unique opportunity to Join Epsagon's customer-focused engineering team, reporting directly to the group director
 - Build new features from design to production as well as extend existing components for high-scale distributed systems
@@ -10,7 +10,7 @@ With more than $30 million in funding, we're on a mission to help development an
 - Influence the road map and product development to meet the customer's business needs
 - Constantly work with new cutting-edge technologies such as AWS Lambda, K8S, Prometheus, ElasticSearch and more using the top programming languages.
 
-**We are looking for someone who has...**
+## We are looking for someone who has...
 
 - B.S. or M.S. in Computer Science or equivalent degree or experience
 - Expert-level skills (4+ years) in one of the following: Python, Node.js, Java, .NET, Golang
