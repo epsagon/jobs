@@ -11,4 +11,6 @@ With more than $30 million in funding, we're on a mission to help development an
 
 # Open positions
 
-![Fullstack developer]("Fullstack Developer.md")
+[Fullstack Developer (Team Zola)](./Fullstack%20Developer.md)
+
+[Software Engineer](./Software%20Engineer.md)
