@@ -1,4 +1,4 @@
-# Senior Fullstack Developer
+# Fullstack Developer
 
 ## The Role
 
