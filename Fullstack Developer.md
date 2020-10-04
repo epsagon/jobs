@@ -16,4 +16,4 @@
 - Customer oriented approach
 - SaaS, Python, AWS services experience - a plus
 
-![](seniorFullstack.gif)
+![](assets/fullstack.gif)
