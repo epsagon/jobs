@@ -18,4 +18,8 @@ We are looking for a fullstack developer with a passion for building web apps th
 - Customer oriented approach
 - SaaS, Python, AWS services experience - a plus
 
+# Apply now!
+
+Send your CV to careers@epsagon.com
+
 ![](assets/fullstack.gif)
