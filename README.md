@@ -11,10 +11,7 @@ With more than $30 million in funding, we're on a mission to help development an
 
 # Open positions
 
-[Fullstack Developer (Team Zola)](./Fullstack%20Developer.md)
-
-[Software Engineer](./Software%20Engineer.md)
-
+[Fullstack Engineer (Team Good)](./Fullstack%20Engineer.md)
 # To apply
 
 Send your CV to careers@epsagon.com
