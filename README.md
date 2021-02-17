@@ -12,6 +12,7 @@ With more than $30 million in funding, we're on a mission to help development an
 # Open positions
 
 [Fullstack Engineer (Team Good)](./Fullstack%20Engineer.md)
+
 [R&D Engineer (New Tracing Team)](./R&D%20Engineer.md)
 # To apply
 
